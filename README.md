@@ -9,7 +9,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <li>👯 <b>I’m looking to collaborate on:</b> Innovative projects that challenge the status quo and push the boundaries of technology.</li>
   <li>💬 <b>Ask me about:</b> Web Development, Python, and Artificial Intelligence.</li>
   <li>📫 <b>How to reach me:</b> email me at <a href="mailto:anca.bursumac@gmail.com">anca.bursumac@gmail.com</a>.</li>
-  <li>⚡ <b>Fun fact:</b> ..... </li>
+  <li>⚡ <b>Fun fact:</b> Rabbit, was my nickname when i was little. </li>
 </ul>
 
 
