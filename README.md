@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <ul>
   <li>🔭 <b>I’m currently working on:</b> A school project</li>
-  <li>🌱 <b>I’m currently learning:</b> C#, Unity and using Blender and also Web Development.</li>
+  <li>🌱 <b>I’m currently learning:</b> C#, Unity, Blender and also Web Development.</li>
   <li>👯 <b>I’m looking to collaborate on:</b> Projects in virtual reality and augmented reality that allow me to learn and become a creatif developer.</li>
   <li>💬 <b>Ask me about:</b> Web Development, Creatif Development, C#, Design.</li>
   <li>📫 <b>How to reach me:</b> email me at <a href="mailto:anca.bursumac@gmail.com">anca.bursumac@gmail.com</a>.</li>
